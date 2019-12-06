@@ -55,7 +55,7 @@ view(){
 		echo "Warna gaun	: ${warna[$x]}"
 		echo "Tinggi badan	: ${t[$x]}"
 		echo "Lebar pundak	: ${lpu[$x]} cm"
-		echo "Lebar dada  	: ${ld[$x]} cm"
+		echo "Lebar dada  	: ${ldd[$x]} cm"
 		echo "Lebar pinggang	: ${lpi[$x]} cm"
 		echo "Lebar lengan	: ${ll[$x]} cm"
 		echo "Lebar pergelangan	: ${lpe[$x]}"
